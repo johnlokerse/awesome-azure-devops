@@ -1,4 +1,4 @@
-# Curated Azure DevOps Content ⚙️
+# ⚙️ Curated Azure DevOps Content ⚙️
 
 This repository contains a curated list of Azure DevOps content. Think about blogs, videos, tips and tricks and scripts you can use. This repository gets updated regularly with content made by the community.
 
@@ -7,9 +7,13 @@ This repository contains a curated list of Azure DevOps content. Think about blo
 
 > Here the official content from Microsoft is placed
 
-### Docs
+### Videos
+
+- [Azure DevOps: Zero to Hero](https://www.youtube.com/watch?v=DoWhZO7nbCY)
 
 ### Blogs
+
+- [Microsoft Azure DevOps Official Blog](https://devblogs.microsoft.com/devops/)
 
 ## Community made
 
