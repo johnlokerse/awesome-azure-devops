@@ -1,7 +1,9 @@
 # Awesome Azure DevOps 🚀
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This repository contains a curated list of Azure DevOps content. Think about blogs, videos, tips and tricks and scripts you can use. This repository gets updated regularly with content made by the community.
+The _Awesome Azure DevOps 🚀_ repository contains a list of awesome Azure DevOps content created by Microsoft and the community!
+
+
 
 ## Table of Contents
 
@@ -11,7 +13,7 @@ This repository contains a curated list of Azure DevOps content. Think about blo
       - [Microsoft Learn](#microsoft-learn)
       - [Microsoft Videos](#microsoft-videos)
       - [Microsoft Blogs](#microsoft-blogs)
-      - [Microsoft tools and extensions](#microsoft-tools-and-extensions)
+      - [Azure DevOps Tools and Extensions](#azure-devops-tools-and-extensions)
   - [Community content](#community-content)
       - [Community Videos](#community-videos)
       - [Community Blogs](#community-blogs)
@@ -45,7 +47,7 @@ This repository contains a curated list of Azure DevOps content. Think about blo
 - [Microsoft Azure DevOps Official Blog](https://devblogs.microsoft.com/devops/)
 - [Azure DevOps Roadmap](https://learn.microsoft.com/en-us/azure/devops/release-notes/features-timeline)
 
-#### Microsoft tools and extensions
+#### Azure DevOps Tools and Extensions
 
 [Back To Top](#Table-Of-Contents)
 
@@ -62,11 +64,13 @@ This repository contains a curated list of Azure DevOps content. Think about blo
 [Back To Top](#Table-Of-Contents)
 
 - [CI/CD with Azure Pipelines](https://www.youtube.com/watch?v=4BibQ69MD8c)
+- [Getting Started with Azure DevOps Repos](https://www.youtube.com/watch?v=qLhVWJvox7g)
 
 #### Community Blogs
 
 [Back To Top](#Table-Of-Contents)
 
+- [Bulk edit Azure DevOps work items using Excel](https://www.techielass.com/bulk-edit-azure-devops-work-items-using-excel/)
 - [Parallel Jobs with automating testing](https://samlearnsazure.blog/2021/01/26/parallel-jobs-with-automating-testing/)
 - [Parallel Azure Pipeline Jobs](https://samlearnsazure.blog/2020/02/11/parallel-azure-pipelines-jobs/)
 - [Secret scanning in Azure DevOps with Defender for DevOps](https://johnlokerse.dev/2023/05/24/secret-scanning-in-azure-devops-with-defender-for-devops/)
