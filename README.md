@@ -26,7 +26,7 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of awesome Azure DevO
 
 ## Microsoft content
 
-> Here the official content from Microsoft is placed
+> Content created by Microsoft
 
 #### Microsoft Learn
 
@@ -64,7 +64,7 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of awesome Azure DevO
 
 ## Community content
 
-> Here the content made from the community is placed
+> Content created by the community
 
 #### Community Videos
 
