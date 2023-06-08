@@ -46,6 +46,8 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of awesome Azure DevO
 
 - [Microsoft Azure DevOps Official Blog](https://devblogs.microsoft.com/devops/)
 - [Azure DevOps Roadmap](https://learn.microsoft.com/en-us/azure/devops/release-notes/features-timeline)
+- [Azure DevOps What's New?](https://learn.microsoft.com/en-us/azure/devops/release-notes/docswhatsnew/)
+- [DevOps Architecture Design](https://learn.microsoft.com/en-us/azure/architecture/guide/devops/devops-start-here)
 
 #### Azure DevOps Tools and Extensions
 
