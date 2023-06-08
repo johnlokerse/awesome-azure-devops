@@ -4,6 +4,11 @@
 The _Awesome Azure DevOps 🚀_ repository contains a list of awesome Azure DevOps content created by Microsoft and the community!
 
 
+> Something about contributing here! :-)
+
+<p align="center">
+  <img src="images/AzureDevOpsHeader.png">
+</p>
 
 ## Table of Contents
 
