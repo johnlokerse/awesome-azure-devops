@@ -1,13 +1,26 @@
-# 🚀 Curated Azure DevOps Content 🚀
+# Awesome Azure DevOps 🚀
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This repository contains a curated list of Azure DevOps content. Think about blogs, videos, tips and tricks and scripts you can use. This repository gets updated regularly with content made by the community.
 
+## Table of Contents
 
-## Microsoft official
+- [Awesome Azure DevOps 🚀](#awesome-azure-devops-)
+  - [Table of Contents](#table-of-contents)
+  - [Microsoft content](#microsoft-content)
+      - [Microsoft Learn](#microsoft-learn)
+      - [Microsoft Videos](#microsoft-videos)
+      - [Microsoft Blogs](#microsoft-blogs)
+  - [Community content](#community-content)
+      - [Community Videos](#community-videos)
+      - [Community Blogs](#community-blogs)
+      - [Community Podcasts](#community-podcasts)
+
+## Microsoft content
 
 > Here the official content from Microsoft is placed
 
-#### Learn
+#### Microsoft Learn
 
 - [Get Started with Azure DevOps](https://learn.microsoft.com/en-us/training/paths/evolve-your-devops-practices/)
 - [Build applications with Azure DevOps](https://learn.microsoft.com/en-us/training/paths/build-applications-with-azure-devops/)
@@ -15,25 +28,25 @@ This repository contains a curated list of Azure DevOps content. Think about blo
 - [What is Azure DevOps](https://learn.microsoft.com/en-us/azure/devops/user-guide/what-is-azure-devops?toc=%2Fazure%2Fdevops%2Fget-started%2Ftoc.json&view=azure-devops)
 - [Azure DevOps Services REST API Reference](https://learn.microsoft.com/en-us/rest/api/azure/devops/?view=azure-devops-rest-7.1)
 
-#### Videos
+#### Microsoft Videos
 
 - [Azure DevOps: Zero to Hero](https://www.youtube.com/watch?v=DoWhZO7nbCY)
 - [How to Deploy Power Platform with Azure DevOps](https://www.youtube.com/watch?v=iHpSuw8Ap48&t=758s)
 
-#### Blogs
+#### Microsoft Blogs
 
 - [Microsoft Azure DevOps Official Blog](https://devblogs.microsoft.com/devops/)
 - [Azure DevOps Roadmap](https://learn.microsoft.com/en-us/azure/devops/release-notes/features-timeline)
 
-## Community made
+## Community content
 
 > Here the content made from the community is placed
 
-#### Videos
+#### Community Videos
 
 - [CI/CD with Azure Pipelines](https://www.youtube.com/watch?v=4BibQ69MD8c)
 
-#### Blogs
+#### Community Blogs
 
 - [Secret scanning in Azure DevOps with Defender for DevOps](https://johnlokerse.dev/2023/05/24/secret-scanning-in-azure-devops-with-defender-for-devops/)
 - [Simplify Azure DevOps License Management with Group Rules](https://johnlokerse.dev/2023/04/15/simplify-azure-devops-license-management-with-group-rules/)
@@ -43,6 +56,6 @@ This repository contains a curated list of Azure DevOps content. Think about blo
 - [I am in your pipeline reading all your secrets!](https://www.devjev.nl/posts/2022/i-am-in-your-pipeline-reading-all-your-secrets/)
 - [Your service connection credentials are mine](https://www.devjev.nl/posts/2022/your-service-connection-credentials-are-mine/)
 
-#### Podcasts
+#### Community Podcasts
 
 - [Azure DevOps Podcast by Jeff Palermo](http://azuredevopspodcast.clear-measure.com/)
