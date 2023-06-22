@@ -44,6 +44,7 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of awesome Azure DevO
 
 - [Azure DevOps: Zero to Hero](https://www.youtube.com/watch?v=DoWhZO7nbCY)
 - [How to Deploy Power Platform with Azure DevOps](https://www.youtube.com/watch?v=iHpSuw8Ap48&t=758s)
+- [Create Azure DevOps Management Reports](https://www.youtube.com/watch?v=gqUFAAByPfU)
 
 #### Microsoft Blogs
 
