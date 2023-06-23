@@ -1,8 +1,7 @@
 # Awesome Azure DevOps 🚀
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Check for deadlinks in markdown files](https://github.com/johnlokerse/awesome-azure-devops/actions/workflows/check-for-dead-markdown-links.yml/badge.svg)](https://github.com/johnlokerse/awesome-azure-devops/actions/workflows/check-for-dead-markdown-links.yml)
 
-The _Awesome Azure DevOps 🚀_ repository contains a list of awesome Azure DevOps content created by Microsoft and the community!
-
+The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps content created by Microsoft and the community!
 
 > Something about contributing here! :-)
 
@@ -12,6 +11,7 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of awesome Azure DevO
 
 ## Table of Contents
 
+<!-- markdown-link-check-disable -->
 - [Awesome Azure DevOps 🚀](#awesome-azure-devops-)
   - [Table of Contents](#table-of-contents)
   - [Microsoft content](#microsoft-content)
@@ -23,10 +23,11 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of awesome Azure DevO
       - [Community Videos](#community-videos)
       - [Community Blogs](#community-blogs)
       - [Community Podcasts](#community-podcasts)
+<!-- markdown-link-check-enable -->
 
 ## Microsoft content
 
-> Content created by Microsoft
+> The links below are blogs, podcasts and video's created by official Microsoft sources
 
 #### Microsoft Learn
 
@@ -65,7 +66,7 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of awesome Azure DevO
 
 ## Community content
 
-> Content created by the community
+> The links below are blogs, podcasts and video's created by the community
 
 #### Community Videos
 
