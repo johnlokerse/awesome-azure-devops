@@ -3,7 +3,7 @@
 
 The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps content created by Microsoft and the community!
 
-> Something about contributing here! :-)
+> Community contributions are appreciated :-)! If you have a blog, podcast or video about Azure DevOps, please add it to the list! Make sure to check the [contribution guidelines](CONTRIBUTING.md).
 
 <p align="center">
   <img src="images/AzureDevOpsHeader.png">
@@ -18,6 +18,7 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
       - [Microsoft Learn](#microsoft-learn)
       - [Microsoft Videos](#microsoft-videos)
       - [Microsoft Blogs](#microsoft-blogs)
+      - [Microsoft Forums](#microsoft-forums)
       - [Azure DevOps Tools and Extensions](#azure-devops-tools-and-extensions)
   - [Community content](#community-content)
       - [Community Videos](#community-videos)
@@ -55,6 +56,12 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
 - [Azure DevOps Roadmap](https://learn.microsoft.com/en-us/azure/devops/release-notes/features-timeline)
 - [Azure DevOps What's New?](https://learn.microsoft.com/en-us/azure/devops/release-notes/docswhatsnew/)
 - [DevOps Architecture Design](https://learn.microsoft.com/en-us/azure/architecture/guide/devops/devops-start-here)
+
+#### Microsoft Forums
+
+[Back To Top](#Table-Of-Contents)
+
+- [Azure DevOps TechCommunity Forum](https://techcommunity.microsoft.com/t5/azure-devops/bd-p/AzureDevOpsForum)
 
 #### Azure DevOps Tools and Extensions
 
