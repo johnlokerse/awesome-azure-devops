@@ -1,5 +1,5 @@
 # Awesome Azure DevOps 🚀
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Check for deadlinks in markdown files](https://github.com/johnlokerse/awesome-azure-devops/actions/workflows/check-for-dead-markdown-links.yml/badge.svg)](https://github.com/johnlokerse/awesome-azure-devops/actions/workflows/check-for-dead-markdown-links.yml)
 
 The _Awesome Azure DevOps 🚀_ repository contains a list of awesome Azure DevOps content created by Microsoft and the community!
 
