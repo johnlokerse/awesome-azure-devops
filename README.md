@@ -1,5 +1,5 @@
 # Awesome Azure DevOps 🚀
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Check for deadlinks in markdown files](https://github.com/johnlokerse/awesome-azure-devops/actions/workflows/check-for-dead-markdown-links.yml/badge.svg)](https://github.com/johnlokerse/awesome-azure-devops/actions/workflows/check-for-dead-markdown-links.yml)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Check for Dead Links in Markdown](https://github.com/johnlokerse/awesome-azure-devops/actions/workflows/check-for-dead-markdown-links.yml/badge.svg)](https://github.com/johnlokerse/awesome-azure-devops/actions/workflows/check-for-dead-markdown-links.yml)
 
 The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps content created by Microsoft and the community!
 
@@ -32,7 +32,9 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
 
 #### Microsoft Learn
 
+<!-- markdown-link-check-disable -->
 [Back To Top](#Table-Of-Contents)
+<!-- markdown-link-check-enable -->
 
 - [Get Started with Azure DevOps](https://learn.microsoft.com/en-us/training/paths/evolve-your-devops-practices/)
 - [Build applications with Azure DevOps](https://learn.microsoft.com/en-us/training/paths/build-applications-with-azure-devops/)
@@ -42,7 +44,9 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
 
 #### Microsoft Videos
 
+<!-- markdown-link-check-disable -->
 [Back To Top](#Table-Of-Contents)
+<!-- markdown-link-check-enable -->
 
 - [Azure DevOps: Zero to Hero](https://www.youtube.com/watch?v=DoWhZO7nbCY)
 - [How to Deploy Power Platform with Azure DevOps](https://www.youtube.com/watch?v=iHpSuw8Ap48&t=758s)
@@ -50,7 +54,9 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
 
 #### Microsoft Blogs
 
+<!-- markdown-link-check-disable -->
 [Back To Top](#Table-Of-Contents)
+<!-- markdown-link-check-enable -->
 
 - [Microsoft Azure DevOps Official Blog](https://devblogs.microsoft.com/devops/)
 - [Azure DevOps Roadmap](https://learn.microsoft.com/en-us/azure/devops/release-notes/features-timeline)
@@ -59,13 +65,17 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
 
 #### Microsoft Forums
 
+<!-- markdown-link-check-disable -->
 [Back To Top](#Table-Of-Contents)
+<!-- markdown-link-check-enable -->
 
 - [Azure DevOps TechCommunity Forum](https://techcommunity.microsoft.com/t5/azure-devops/bd-p/AzureDevOpsForum)
 
 #### Azure DevOps Tools and Extensions
 
+<!-- markdown-link-check-disable -->
 [Back To Top](#Table-Of-Contents)
+<!-- markdown-link-check-enable -->
 
 - [Get started with Azure DevOps CLI](https://learn.microsoft.com/en-us/azure/devops/cli/?view=azure-devops)
 - [Azure DevOps Services REST API Reference](https://learn.microsoft.com/en-us/rest/api/azure/devops/?view=azure-devops-rest-7.1)
@@ -77,14 +87,18 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
 
 #### Community Videos
 
+<!-- markdown-link-check-disable -->
 [Back To Top](#Table-Of-Contents)
+<!-- markdown-link-check-enable -->
 
 - [CI/CD with Azure Pipelines](https://www.youtube.com/watch?v=4BibQ69MD8c)
 - [Getting Started with Azure DevOps Repos](https://www.youtube.com/watch?v=qLhVWJvox7g)
 
 #### Community Blogs
 
+<!-- markdown-link-check-disable -->
 [Back To Top](#Table-Of-Contents)
+<!-- markdown-link-check-enable -->
 
 - [Bulk edit Azure DevOps work items using Excel](https://www.techielass.com/bulk-edit-azure-devops-work-items-using-excel/)
 - [Parallel Jobs with automating testing](https://samlearnsazure.blog/2021/01/26/parallel-jobs-with-automating-testing/)
@@ -99,6 +113,8 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
 
 #### Community Podcasts
 
+<!-- markdown-link-check-disable -->
 [Back To Top](#Table-Of-Contents)
+<!-- markdown-link-check-enable -->
 
 - [Azure DevOps Podcast by Jeff Palermo](http://azuredevopspodcast.clear-measure.com/)
