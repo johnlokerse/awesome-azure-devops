@@ -3,7 +3,7 @@
 
 The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps content created by Microsoft and the community!
 
-> Community contributions are appreciated :-)! If you have a blog, podcast or video about Azure DevOps, please add it to the list! Make sure to check the [contribution guidelines](CONTRIBUTING.md).
+> Community contributions are appreciated :-)! If you have a blog, podcast or video about Azure DevOps, please add it to the list! Make sure to check the [contribution guidelines](CONTRIBUTING.md) before contributing.
 
 <p align="center">
   <img src="images/AzureDevOpsHeader.png">
@@ -28,19 +28,18 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
 
 ## Microsoft content
 
-> The links below are blogs, podcasts and video's created by official Microsoft sources
+> The links below are blogs, podcasts, video's etcetera created and maintained by official Microsoft sources
 
 #### Microsoft Learn
 
 <!-- markdown-link-check-disable -->
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 <!-- markdown-link-check-enable -->
 
 - [Get Started with Azure DevOps](https://learn.microsoft.com/en-us/training/paths/evolve-your-devops-practices/)
 - [Build applications with Azure DevOps](https://learn.microsoft.com/en-us/training/paths/build-applications-with-azure-devops/)
 - [Learning path Azure DevOps](https://learn.microsoft.com/en-us/training/browse/?expanded=azure&products=azure-devops)
 - [What is Azure DevOps](https://learn.microsoft.com/en-us/azure/devops/user-guide/what-is-azure-devops?toc=%2Fazure%2Fdevops%2Fget-started%2Ftoc.json&view=azure-devops)
-
 
 #### Microsoft Videos
 
@@ -55,7 +54,7 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
 #### Microsoft Blogs
 
 <!-- markdown-link-check-disable -->
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 <!-- markdown-link-check-enable -->
 
 - [Microsoft Azure DevOps Official Blog](https://devblogs.microsoft.com/devops/)
@@ -66,7 +65,7 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
 #### Microsoft Forums
 
 <!-- markdown-link-check-disable -->
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 <!-- markdown-link-check-enable -->
 
 - [Azure DevOps TechCommunity Forum](https://techcommunity.microsoft.com/t5/azure-devops/bd-p/AzureDevOpsForum)
@@ -74,7 +73,7 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
 #### Azure DevOps Tools and Extensions
 
 <!-- markdown-link-check-disable -->
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 <!-- markdown-link-check-enable -->
 
 - [Get started with Azure DevOps CLI](https://learn.microsoft.com/en-us/azure/devops/cli/?view=azure-devops)
@@ -83,12 +82,12 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
 
 ## Community content
 
-> The links below are blogs, podcasts and video's created by the community
+> The links below are blogs, podcasts and video's created and maintained by the community
 
 #### Community Videos
 
 <!-- markdown-link-check-disable -->
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 <!-- markdown-link-check-enable -->
 
 - [CI/CD with Azure Pipelines](https://www.youtube.com/watch?v=4BibQ69MD8c)
@@ -97,7 +96,7 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
 #### Community Blogs
 
 <!-- markdown-link-check-disable -->
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 <!-- markdown-link-check-enable -->
 
 - [Bulk edit Azure DevOps work items using Excel](https://www.techielass.com/bulk-edit-azure-devops-work-items-using-excel/)
@@ -114,7 +113,7 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
 #### Community Podcasts
 
 <!-- markdown-link-check-disable -->
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 <!-- markdown-link-check-enable -->
 
 - [Azure DevOps Podcast by Jeff Palermo](http://azuredevopspodcast.clear-measure.com/)
