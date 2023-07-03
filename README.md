@@ -79,6 +79,7 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
 - [Azure DevOps Extensions](https://marketplace.visualstudio.com/azuredevops)
 - [Azure DevOps Services REST API Reference](https://learn.microsoft.com/en-us/rest/api/azure/devops/?view=azure-devops-rest-7.1)
 - [Get started with Azure DevOps CLI](https://learn.microsoft.com/en-us/azure/devops/cli/?view=azure-devops)
+- [Azure DevOps Stream Deck plugin by Panu Oksala](https://apps.elgato.com/plugins/net.oksala.azuredevops)
 
 ## Community content
 
@@ -112,6 +113,7 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
 - [Stop breaking your environment: How to get started with Azure DevOps Pipelines](https://faun.pub/stop-breaking-your-environment-how-to-get-started-with-azure-devops-pipelines-4c684dd914c8)
 - [Validating YAML using Azure DevOps or CLI](https://johnlokerse.dev/2022/02/07/validating-yaml-using-azure-devops-or-cli/)
 - [Your service connection credentials are mine](https://www.devjev.nl/posts/2022/your-service-connection-credentials-are-mine/)
+- [What is Stakeholder user in Azure DevOps](https://oksala.net/2023/01/23/what-is-stakeholder-user-in-azure-devops/)
 
 #### Community Podcasts
 
