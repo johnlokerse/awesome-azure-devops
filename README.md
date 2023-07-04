@@ -79,7 +79,6 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
 - [Azure DevOps Extensions](https://marketplace.visualstudio.com/azuredevops)
 - [Azure DevOps Services REST API Reference](https://learn.microsoft.com/en-us/rest/api/azure/devops/?view=azure-devops-rest-7.1)
 - [Get started with Azure DevOps CLI](https://learn.microsoft.com/en-us/azure/devops/cli/?view=azure-devops)
-- [Azure DevOps Stream Deck plugin by Panu Oksala](https://apps.elgato.com/plugins/net.oksala.azuredevops)
 
 ## Community content
 
@@ -122,3 +121,11 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
 <!-- markdown-link-check-enable -->
 
 - [Azure DevOps Podcast by Jeff Palermo](http://azuredevopspodcast.clear-measure.com/)
+
+#### Community Tools and Extensions
+
+<!-- markdown-link-check-disable -->
+[Back To Top](#table-of-contents)
+<!-- markdown-link-check-enable -->
+
+- [Azure DevOps Stream Deck plugin by Panu Oksala](https://apps.elgato.com/plugins/net.oksala.azuredevops)
