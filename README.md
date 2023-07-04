@@ -24,6 +24,7 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
       - [Community Videos](#community-videos)
       - [Community Blogs](#community-blogs)
       - [Community Podcasts](#community-podcasts)
+      - [Community Tools and Extensions](#community-tools-and-extensions)
 <!-- markdown-link-check-enable -->
 
 ## Microsoft content
@@ -112,6 +113,7 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
 - [Stop breaking your environment: How to get started with Azure DevOps Pipelines](https://faun.pub/stop-breaking-your-environment-how-to-get-started-with-azure-devops-pipelines-4c684dd914c8)
 - [Validating YAML using Azure DevOps or CLI](https://johnlokerse.dev/2022/02/07/validating-yaml-using-azure-devops-or-cli/)
 - [Your service connection credentials are mine](https://www.devjev.nl/posts/2022/your-service-connection-credentials-are-mine/)
+- [What is Stakeholder user in Azure DevOps](https://oksala.net/2023/01/23/what-is-stakeholder-user-in-azure-devops/)
 
 #### Community Podcasts
 
@@ -120,3 +122,11 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
 <!-- markdown-link-check-enable -->
 
 - [Azure DevOps Podcast by Jeff Palermo](http://azuredevopspodcast.clear-measure.com/)
+
+#### Community Tools and Extensions
+
+<!-- markdown-link-check-disable -->
+[Back To Top](#table-of-contents)
+<!-- markdown-link-check-enable -->
+
+- [Azure DevOps Stream Deck plugin by Panu Oksala](https://apps.elgato.com/plugins/net.oksala.azuredevops)
