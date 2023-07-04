@@ -24,6 +24,7 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
       - [Community Videos](#community-videos)
       - [Community Blogs](#community-blogs)
       - [Community Podcasts](#community-podcasts)
+      - [Community Tools and Extensions](#community-tools-and-extensions)
 <!-- markdown-link-check-enable -->
 
 ## Microsoft content
