@@ -25,6 +25,7 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
       - [Community Blogs](#community-blogs)
       - [Community Podcasts](#community-podcasts)
       - [Community Tools and Extensions](#community-tools-and-extensions)
+      - [Community Channels](#community-channels)
 <!-- markdown-link-check-enable -->
 
 ## Microsoft content
@@ -130,3 +131,11 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
 <!-- markdown-link-check-enable -->
 
 - [Azure DevOps Stream Deck plugin by Panu Oksala](https://apps.elgato.com/plugins/net.oksala.azuredevops)
+
+#### Community Channels
+
+<!-- markdown-link-check-disable -->
+[Back To Top](#table-of-contents)
+<!-- markdown-link-check-enable -->
+
+- [Azure DevOps Slack community](https://www.azuredevops.club/)
