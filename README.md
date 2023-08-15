@@ -102,8 +102,12 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
 [Back To Top](#table-of-contents)
 <!-- markdown-link-check-enable -->
 
+- [Automatic PAT renewal in Azure DevOps](https://autosysops.com/blog/automatic-pat-renewal-for-azure-devops)
+- [Automatic Rollback Deployment with Azure DevOps Pipelines](https://autosysops.com/blog/automatic-rollback-for-azure-deploy-with-pipeline)
 - [Azure Bicep validation in a pull request with Azure DevOps](https://johnlokerse.dev/2022/04/20/azure-bicep-validation-in-a-pull-request-with-azure-devops/)
+- [Build a full MSP automation workflow in Azure DevOps](https://autosysops.com/blog/building-a-full-msp-automation-workflow-in-azure-devops)
 - [Bulk edit Azure DevOps work items using Excel](https://www.techielass.com/bulk-edit-azure-devops-work-items-using-excel/)
+- [Deploy Azure Policies with Azure DevOps](https://autosysops.com/blog/deploy-azure-policy-with-azure-devops)
 - [How to extend an Azure DevOps YAML Pipeline Template](https://towardsdev.com/how-to-extend-an-azure-devops-yaml-pipeline-template-b9d851c5e872)
 - [I am in your pipeline reading all your secrets!](https://www.devjev.nl/posts/2022/i-am-in-your-pipeline-reading-all-your-secrets/)
 - [Parallel Azure Pipeline Jobs](https://samlearnsazure.blog/2020/02/11/parallel-azure-pipelines-jobs/)
@@ -112,6 +116,7 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
 - [Secret scanning in Azure DevOps with Defender for DevOps](https://johnlokerse.dev/2023/05/24/secret-scanning-in-azure-devops-with-defender-for-devops/)
 - [Simplify Azure DevOps License Management with Group Rules](https://johnlokerse.dev/2023/04/15/simplify-azure-devops-license-management-with-group-rules/)
 - [Stop breaking your environment: How to get started with Azure DevOps Pipelines](https://faun.pub/stop-breaking-your-environment-how-to-get-started-with-azure-devops-pipelines-4c684dd914c8)
+- [Test PowerShell code quality with Azure DevOps](https://autosysops.com/blog/test-powershell-code-quality-automatically)
 - [Validating YAML using Azure DevOps or CLI](https://johnlokerse.dev/2022/02/07/validating-yaml-using-azure-devops-or-cli/)
 - [Your service connection credentials are mine](https://www.devjev.nl/posts/2022/your-service-connection-credentials-are-mine/)
 - [What is Stakeholder user in Azure DevOps](https://oksala.net/2023/01/23/what-is-stakeholder-user-in-azure-devops/)
