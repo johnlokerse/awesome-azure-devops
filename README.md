@@ -119,6 +119,7 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
 - [Stop breaking your environment: How to get started with Azure DevOps Pipelines](https://faun.pub/stop-breaking-your-environment-how-to-get-started-with-azure-devops-pipelines-4c684dd914c8)
 - [Test PowerShell code quality with Azure DevOps](https://autosysops.com/blog/test-powershell-code-quality-automatically)
 - [Validating YAML using Azure DevOps or CLI](https://johnlokerse.dev/2022/02/07/validating-yaml-using-azure-devops-or-cli/)
+- [What is Azure DevOps? Introduction to the Azure DevOps](https://spacelift.io/blog/what-is-azure-devops)
 - [What is Stakeholder user in Azure DevOps](https://oksala.net/2023/01/23/what-is-stakeholder-user-in-azure-devops/)
 - [Your service connection credentials are mine](https://www.devjev.nl/posts/2022/your-service-connection-credentials-are-mine/)
 
