@@ -112,6 +112,7 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
 - [Deploy Azure Policies with Azure DevOps](https://autosysops.com/blog/deploy-azure-policy-with-azure-devops)
 - [How to extend an Azure DevOps YAML Pipeline Template](https://towardsdev.com/how-to-extend-an-azure-devops-yaml-pipeline-template-b9d851c5e872)
 - [I am in your pipeline reading all your secrets!](https://www.devjev.nl/posts/2022/i-am-in-your-pipeline-reading-all-your-secrets/)
+- [Jesse Houwing's blog on advanced Azure DevOps topics](https://jessehouwing.net/tag/azure-devops/)
 - [Multiple ways to automate code testing](https://autosysops.com/blog/multiple-ways-to-automate-code-testing)
 - [Parallel Azure Pipeline Jobs](https://samlearnsazure.blog/2020/02/11/parallel-azure-pipelines-jobs/)
 - [Parallel Jobs with automating testing](https://samlearnsazure.blog/2021/01/26/parallel-jobs-with-automating-testing/)
