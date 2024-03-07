@@ -38,10 +38,14 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
 [Back To Top](#table-of-contents)
 <!-- markdown-link-check-enable -->
 
-- [Build applications with Azure DevOps](https://learn.microsoft.com/en-us/training/paths/build-applications-with-azure-devops/)
-- [Get Started with Azure DevOps](https://learn.microsoft.com/en-us/training/paths/evolve-your-devops-practices/)
-- [Learning path Azure DevOps](https://learn.microsoft.com/en-us/training/browse/?expanded=azure&products=azure-devops)
-- [What is Azure DevOps](https://learn.microsoft.com/en-us/azure/devops/user-guide/what-is-azure-devops?toc=%2Fazure%2Fdevops%2Fget-started%2Ftoc.json&view=azure-devops)
+- [Build applications with Azure DevOps](https://learn.microsoft.com/en-us/training/paths/build-applications-with-azure-devops?wt.mc_id=MVP_323261)
+- [Get Started with Azure DevOps](https://learn.microsoft.com/en-us/training/paths/evolve-your-devops-practices?wt.mc_id=MVP_323261)
+- [Learning path Azure DevOps](https://learn.microsoft.com/en-us/training/browse/?expanded=azure&products=azure-devops&wt.mc_id=MVP_323261)
+- [What is Azure DevOps](https://learn.microsoft.com/en-us/azure/devops/user-guide/what-is-azure-devops?toc=%2Fazure%2Fdevops%2Fget-started%2Ftoc.json&view=azure-devops&wt.mc_id=MVP_323261)
+- [Compare Azure DevOps Services with Azure DevOps Server](https://learn.microsoft.com/en-us/azure/devops/user-guide/about-azure-devops-services-tfs?toc=%2Fazure%2Fdevops%2Fget-started%2Ftoc.json&view=azure-devops&wt.mc_id=MVP_323261)
+- [Track your work by using managed queries in Azure Boards](https://learn.microsoft.com/en-us/azure/devops/boards/queries/about-managed-queries?view=azure-devops&wt.mc_id=MVP_323261)
+- [Which process is the best for my use case?](https://learn.microsoft.com/en-us/azure/devops/boards/work-items/guidance/choose-process?view=azure-devops&tabs=agile-process&wt.mc_id=MVP_323261)
+- [Dashboard in Azure DevOps](https://learn.microsoft.com/en-us/azure/devops/report/dashboards/dashboards?view=azure-devops?wt.mc_id=MVP_323261)
 
 #### Microsoft Videos
 
@@ -59,10 +63,10 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
 [Back To Top](#table-of-contents)
 <!-- markdown-link-check-enable -->
 
-- [Azure DevOps Roadmap](https://learn.microsoft.com/en-us/azure/devops/release-notes/features-timeline)
-- [Azure DevOps What's New?](https://learn.microsoft.com/en-us/azure/devops/release-notes/docswhatsnew/)
-- [DevOps Architecture Design](https://learn.microsoft.com/en-us/azure/architecture/guide/devops/devops-start-here)
-- [Microsoft Azure DevOps Official Blog](https://devblogs.microsoft.com/devops/)
+- [Azure DevOps Roadmap](https://learn.microsoft.com/en-us/azure/devops/release-notes/features-timeline?wt.mc_id=MVP_323261)
+- [Azure DevOps What's New?](https://learn.microsoft.com/en-us/azure/devops/release-notes/docswhatsnew?wt.mc_id=MVP_323261)
+- [DevOps Architecture Design](https://learn.microsoft.com/en-us/azure/architecture/guide/devops/devops-start-here?wt.mc_id=MVP_323261)
+- [Microsoft Azure DevOps Official Blog](https://devblogs.microsoft.com/devops?wt.mc_id=MVP_323261)
 
 #### Microsoft Forums
 
@@ -70,7 +74,7 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
 [Back To Top](#table-of-contents)
 <!-- markdown-link-check-enable -->
 
-- [Azure DevOps TechCommunity Forum](https://techcommunity.microsoft.com/t5/azure-devops/bd-p/AzureDevOpsForum)
+- [Azure DevOps TechCommunity Forum](https://techcommunity.microsoft.com/t5/azure-devops/bd-p/AzureDevOpsForum?wt.mc_id=MVP_323261)
 
 #### Azure DevOps Tools and Extensions
 
@@ -79,8 +83,9 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
 <!-- markdown-link-check-enable -->
 
 - [Azure DevOps Extensions](https://marketplace.visualstudio.com/azuredevops)
-- [Azure DevOps Services REST API Reference](https://learn.microsoft.com/en-us/rest/api/azure/devops/?view=azure-devops-rest-7.1)
-- [Get started with Azure DevOps CLI](https://learn.microsoft.com/en-us/azure/devops/cli/?view=azure-devops)
+- [Azure DevOps Services REST API Reference](https://learn.microsoft.com/en-us/rest/api/azure/devops/?view=azure-devops-rest-7.1&wt.mc_id=MVP_323261)
+- [Get started with Azure DevOps CLI](https://learn.microsoft.com/en-us/azure/devops/cli/?view=azure-devops&wt.mc_id=MVP_323261)
+- [Command-line tools](https://learn.microsoft.com/en-us/azure/devops/user-guide/tools?view=azure-devops&wt.mc_id=MVP_323261#command-line-tools)
 
 ## Community content
 
