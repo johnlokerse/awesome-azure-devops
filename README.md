@@ -129,6 +129,7 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
 - [Validating YAML using Azure DevOps or CLI](https://johnlokerse.dev/2022/02/07/validating-yaml-using-azure-devops-or-cli/)
 - [What is Azure DevOps? Introduction to the Azure DevOps](https://spacelift.io/blog/what-is-azure-devops)
 - [What is Stakeholder user in Azure DevOps](https://oksala.net/2023/01/23/what-is-stakeholder-user-in-azure-devops/)
+- [Use service connection approvals to elevate Azure DevOps deployment security](https://johnlokerse.dev/2024/03/11/use-service-connection-approvals-to-elevate-azure-devops-deployment-security/)
 - [Your service connection credentials are mine](https://www.devjev.nl/posts/2022/your-service-connection-credentials-are-mine/)
 
 #### Community Podcasts
