@@ -45,7 +45,7 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
 - [Compare Azure DevOps Services with Azure DevOps Server](https://learn.microsoft.com/en-us/azure/devops/user-guide/about-azure-devops-services-tfs?toc=%2Fazure%2Fdevops%2Fget-started%2Ftoc.json&view=azure-devops&wt.mc_id=MVP_323261)
 - [Track your work by using managed queries in Azure Boards](https://learn.microsoft.com/en-us/azure/devops/boards/queries/about-managed-queries?view=azure-devops&wt.mc_id=MVP_323261)
 - [Which process is the best for my use case?](https://learn.microsoft.com/en-us/azure/devops/boards/work-items/guidance/choose-process?view=azure-devops&tabs=agile-process&wt.mc_id=MVP_323261)
-- [Dashboard in Azure DevOps](https://learn.microsoft.com/en-us/azure/devops/report/dashboards/dashboards?view=azure-devops?wt.mc_id=MVP_323261)
+- [Dashboard in Azure DevOps](https://learn.microsoft.com/en-us/azure/devops/report/dashboards/dashboards?view=azure-devops&wt.mc_id=MVP_323261)
 
 #### Microsoft Videos
 
