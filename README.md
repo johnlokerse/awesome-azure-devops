@@ -156,3 +156,12 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
 <!-- markdown-link-check-enable -->
 
 - [Azure DevOps Slack community](https://www.azuredevops.club/)
+
+#### Community Forums
+
+<!-- markdown-link-check-disable -->
+[Back To Top](#table-of-contents)
+<!-- markdown-link-check-enable -->
+
+- [Azure DevOps Reddit](https://www.reddit.com/r/azuredevops/)
+- [Azure DevOps Stackoverflow](https://stackoverflow.com/questions/tagged/azure-devops)
