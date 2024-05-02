@@ -115,6 +115,7 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
 - [Build a full MSP automation workflow in Azure DevOps](https://autosysops.com/blog/building-a-full-msp-automation-workflow-in-azure-devops)
 - [Bulk edit Azure DevOps work items using Excel](https://www.techielass.com/bulk-edit-azure-devops-work-items-using-excel/)
 - [Deploy Azure Policies with Azure DevOps](https://autosysops.com/blog/deploy-azure-policy-with-azure-devops)
+- [Fixing workload identity federation conversion failures in Azure DevOps](https://rios.engineer/fixing-workload-identity-federation-conversion-failures-in-azure-devops/)
 - [How to extend an Azure DevOps YAML Pipeline Template](https://towardsdev.com/how-to-extend-an-azure-devops-yaml-pipeline-template-b9d851c5e872)
 - [I am in your pipeline reading all your secrets!](https://www.devjev.nl/posts/2022/i-am-in-your-pipeline-reading-all-your-secrets/)
 - [Jesse Houwing's blog on advanced Azure DevOps topics](https://jessehouwing.net/tag/azure-devops/)
