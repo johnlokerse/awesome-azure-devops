@@ -26,6 +26,7 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
       - [Community Podcasts](#community-podcasts)
       - [Community Tools and Extensions](#community-tools-and-extensions)
       - [Community Channels](#community-channels)
+      - [Community Forums](#community-forums)
 <!-- markdown-link-check-enable -->
 
 ## Microsoft content
@@ -124,6 +125,7 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
 - [Parallel Jobs with automating testing](https://samlearnsazure.blog/2021/01/26/parallel-jobs-with-automating-testing/)
 - [Protect Azure DevOps Personal Access Tokens with Conditional Access](https://johnlokerse.dev/2023/03/12/protect-azure-devops-personal-access-tokens-with-conditional-access/)
 - [Secret scanning in Azure DevOps with Defender for DevOps](https://johnlokerse.dev/2023/05/24/secret-scanning-in-azure-devops-with-defender-for-devops/)
+- [Setup Azure DevOps Workload Identity Federation using Azure Bicep](https://johnlokerse.dev/2024/05/05/setup-azure-devops-workload-identity-federation-using-azure-bicep/)
 - [Simplify Azure DevOps License Management with Group Rules](https://johnlokerse.dev/2023/04/15/simplify-azure-devops-license-management-with-group-rules/)
 - [Stop breaking your environment: How to get started with Azure DevOps Pipelines](https://faun.pub/stop-breaking-your-environment-how-to-get-started-with-azure-devops-pipelines-4c684dd914c8)
 - [Test PowerShell code quality with Azure DevOps](https://autosysops.com/blog/test-powershell-code-quality-automatically)
