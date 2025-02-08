@@ -110,6 +110,7 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
 <!-- markdown-link-check-enable -->
 
 - [A Comprehensive Guide to Branch Policies in Azure DevOps](https://bjornpeters.com/azure/a-comprehensive-guide-to-branch-policies-in-azure-devops)
+- [Automate .NET Dependency Management in Azure DevOps with GitHub’s Dependabot](https://rios.engineer/automate-net-dependency-management-in-azure-devops-with-githubs-dependabot/)
 - [Automatic PAT renewal in Azure DevOps](https://autosysops.com/blog/automatic-pat-renewal-for-azure-devops)
 - [Automatic Rollback Deployment with Azure DevOps Pipelines](https://autosysops.com/blog/automatic-rollback-for-azure-deploy-with-pipeline)
 - [Azure Bicep validation in a pull request with Azure DevOps](https://johnlokerse.dev/2022/04/20/azure-bicep-validation-in-a-pull-request-with-azure-devops/)
@@ -117,6 +118,7 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
 - [Bulk edit Azure DevOps work items using Excel](https://www.techielass.com/bulk-edit-azure-devops-work-items-using-excel/)
 - [Deploy Azure Policies with Azure DevOps](https://autosysops.com/blog/deploy-azure-policy-with-azure-devops)
 - [Fixing workload identity federation conversion failures in Azure DevOps](https://rios.engineer/fixing-workload-identity-federation-conversion-failures-in-azure-devops/)
+- [Getting started: Continuous deployment with Azure Bicep and Azure DevOps](https://rios.engineer/getting-started-continuous-deployment-with-azure-bicep-and-azure-devops/)
 - [How to extend an Azure DevOps YAML Pipeline Template](https://towardsdev.com/how-to-extend-an-azure-devops-yaml-pipeline-template-b9d851c5e872)
 - [I am in your pipeline reading all your secrets!](https://www.devjev.nl/posts/2022/i-am-in-your-pipeline-reading-all-your-secrets/)
 - [Jesse Houwing's blog on advanced Azure DevOps topics](https://jessehouwing.net/tag/azure-devops/)
