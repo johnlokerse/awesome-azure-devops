@@ -112,6 +112,7 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
 - [A Comprehensive Guide to Branch Policies in Azure DevOps](https://bjornpeters.com/azure/a-comprehensive-guide-to-branch-policies-in-azure-devops)
 - [Automate .NET Dependency Management in Azure DevOps with GitHub’s Dependabot](https://rios.engineer/automate-net-dependency-management-in-azure-devops-with-githubs-dependabot/)
 - [Automatic PAT renewal in Azure DevOps](https://autosysops.com/blog/automatic-pat-renewal-for-azure-devops)
+- [Automate pull request descriptions in Azure DevOps with Azure OpenAI](https://johnlokerse.dev/2025/02/10/automate-pull-request-descriptions-in-azure-devops-with-azure-openai)
 - [Automatic Rollback Deployment with Azure DevOps Pipelines](https://autosysops.com/blog/automatic-rollback-for-azure-deploy-with-pipeline)
 - [Azure Bicep validation in a pull request with Azure DevOps](https://johnlokerse.dev/2022/04/20/azure-bicep-validation-in-a-pull-request-with-azure-devops/)
 - [Build a full MSP automation workflow in Azure DevOps](https://autosysops.com/blog/building-a-full-msp-automation-workflow-in-azure-devops)
