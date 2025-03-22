@@ -139,14 +139,6 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
 - [Use service connection approvals to elevate Azure DevOps deployment security](https://johnlokerse.dev/2024/03/11/use-service-connection-approvals-to-elevate-azure-devops-deployment-security/)
 - [Your service connection credentials are mine](https://www.devjev.nl/posts/2022/your-service-connection-credentials-are-mine/)
 
-#### Community Podcasts
-
-<!-- markdown-link-check-disable -->
-[Back To Top](#table-of-contents)
-<!-- markdown-link-check-enable -->
-
-- [Azure DevOps Podcast by Jeff Palermo](http://azuredevopspodcast.clear-measure.com/)
-
 #### Community Tools and Extensions
 
 <!-- markdown-link-check-disable -->
