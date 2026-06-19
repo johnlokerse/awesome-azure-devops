@@ -154,6 +154,7 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
 [Back To Top](#table-of-contents)
 <!-- markdown-link-check-enable -->
 
+- [Devops InControl](https://www.devopsincontrol.com/) - Free opensource Devops marketplace extension or standalone locally hosted application that makes a lot of processes in ADO easier and allows for multi project roadmaps for example
 - [adotop](https://github.com/superyyrrzz/adotop) - Terminal UI for Azure DevOps pull requests: browse, diff, comment, and approve from the terminal
 - [Azent](https://azent.tech) - Background AI coding agent for Azure DevOps. Trigger Claude or Codex via @mention.
 - [Azure DevOps Stream Deck plugin by Panu Oksala](https://apps.elgato.com/plugins/net.oksala.azuredevops)
