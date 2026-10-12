@@ -162,6 +162,7 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
   - [Azure Devops Migration Tools Homepage](https://devopsmigration.io/)
   - [Azure Devops Migration Tools Repo](https://github.com/nkdAgility/azure-devops-migration-tools)
   - [Mastering Azure DevOps Migration: A Comprehensive Guide by NKDAgility ](https://www.youtube.com/watch?v=RCJsST0xBCE)
+- [trasloco](https://github.com/HarnageaGabriel/trasloco) - Open-source CLI and GitHub Action that finds retired Azure Pipelines task versions (retirement 2026-10-15) in your YAML and names the replacement for each.
 
 #### Community Channels
 
