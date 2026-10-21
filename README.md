@@ -157,6 +157,8 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
 - [adotop](https://github.com/superyyrrzz/adotop) - Terminal UI for Azure DevOps pull requests: browse, diff, comment, and approve from the terminal
 - [Azent](https://azent.tech) - Background AI coding agent for Azure DevOps. Trigger Claude or Codex via @mention.
 - [Azure DevOps Stream Deck plugin by Panu Oksala](https://apps.elgato.com/plugins/net.oksala.azuredevops)
+- [Bulk Editor](https://marketplace.visualstudio.com/items?itemName=jr-devtools.bulk-editor) - Edit Azure DevOps work items in a spreadsheet grid in the browser, with paste from Excel; works on Mac. Free plan and Pro trial.
+- [Merge Conflict Resolver](https://marketplace.visualstudio.com/items?itemName=jr-devtools.ado-merge-conflict-resolver) - Resolve Azure DevOps pull request merge conflicts in the browser, a maintained alternative to the Microsoft DevLabs extension. Free plan and Pro trial.
 - [PSRule.Rules.AzureDevOps ADO configuration best practices audit](https://github.com/cloudyspells/PSRule.Rules.AzureDevOps)
 - Azure Devops Migration Tools
   - [Azure Devops Migration Tools Homepage](https://devopsmigration.io/)
