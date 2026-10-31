@@ -157,6 +157,7 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
 - [adotop](https://github.com/superyyrrzz/adotop) - Terminal UI for Azure DevOps pull requests: browse, diff, comment, and approve from the terminal
 - [Azent](https://azent.tech) - Background AI coding agent for Azure DevOps. Trigger Claude or Codex via @mention.
 - [Azure DevOps Stream Deck plugin by Panu Oksala](https://apps.elgato.com/plugins/net.oksala.azuredevops)
+- [Flowboards](https://flowboards.dev/) - Free, open-source Azure Boards extension: story map board, roadmap with forecast dates, dependency map, flow metrics, sprint planning and health checks.
 - [PSRule.Rules.AzureDevOps ADO configuration best practices audit](https://github.com/cloudyspells/PSRule.Rules.AzureDevOps)
 - Azure Devops Migration Tools
   - [Azure Devops Migration Tools Homepage](https://devopsmigration.io/)
