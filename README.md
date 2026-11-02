@@ -158,6 +158,7 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
 - [Azent](https://azent.tech) - Background AI coding agent for Azure DevOps. Trigger Claude or Codex via @mention.
 - [Azure DevOps Stream Deck plugin by Panu Oksala](https://apps.elgato.com/plugins/net.oksala.azuredevops)
 - [PSRule.Rules.AzureDevOps ADO configuration best practices audit](https://github.com/cloudyspells/PSRule.Rules.AzureDevOps)
+- [TestMu AI Test Manager](https://marketplace.visualstudio.com/items?itemName=Lambdatest.lambdatest-ai-tms-app) - Generate test cases with AI, link them to work items and track their runs in Azure DevOps.
 - Azure Devops Migration Tools
   - [Azure Devops Migration Tools Homepage](https://devopsmigration.io/)
   - [Azure Devops Migration Tools Repo](https://github.com/nkdAgility/azure-devops-migration-tools)
