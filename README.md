@@ -156,6 +156,7 @@ The _Awesome Azure DevOps 🚀_ repository contains a list of Azure DevOps conte
 
 - [adotop](https://github.com/superyyrrzz/adotop) - Terminal UI for Azure DevOps pull requests: browse, diff, comment, and approve from the terminal
 - [Azent](https://azent.tech) - Background AI coding agent for Azure DevOps. Trigger Claude or Codex via @mention.
+- [Azure DevOps Pull Requests](https://plugins.jetbrains.com/plugin/34843-azure-devops-pull-requests) - JetBrains IDE plugin that lists the Azure DevOps pull requests waiting for your review, with their diffs and discussions in the IDE. Reading is free; voting, commenting and completing are paid.
 - [Azure DevOps Stream Deck plugin by Panu Oksala](https://apps.elgato.com/plugins/net.oksala.azuredevops)
 - [PSRule.Rules.AzureDevOps ADO configuration best practices audit](https://github.com/cloudyspells/PSRule.Rules.AzureDevOps)
 - Azure Devops Migration Tools
